@@ -1,0 +1,27 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[a4paper]{geometry}
+\usepackage{ptext}
+\usepackage[computeautoilg=on]{xepersian}
+\settextfont{Parsi Nevis}
+\settextdigitfont{Parsi Nevis}
+\setmathdigitfont{Parsi Nevis}
+\setlatintextfont{Parsi Nevis}
+
+\title{\lr{``Parsi Nevis'' font family v1.0}}
+\author{\lr{Sajad Kazemi}}
+\date{\latintoday}
+
+\begin{document}
+\maketitle
+\section*{عادی (\lr{Regular})}
+\ptext[1] 0123456789
+
+\section*{پررنگ (\lr{Bold})}
+{\bfseries \ptext[1] 0123456789}
+
+\section*{خوابیده به راست (\lr{Italic})}
+{\itshape \ptext[1] 0123456789}
+
+\section*{خوابیده به راست پررنگ (\lr{Bold Italic})}
+{\bfseries\itshape \ptext[1] 0123456789}
+\end{document}
