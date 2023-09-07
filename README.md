@@ -1,12 +1,6 @@
 # parsinevis
-
 v 1.1
 September 7, 2023
-
-=======================
-
-v 1.0
-September 6, 2023
 
 =======================
 
@@ -26,4 +20,7 @@ Visit <https://software.sil.org/scheherazade/> to read more about the Scheheraza
 =======================
 
 Author: Sajad Kazemi <sajad.kazemi.ctan@gmail.com>
-Copyright (C) 2023 by Sajad Kazemi <https://github.com/SajadKazemi>
+
+Copyright (C) 2023 by Sajad Kazemi (https://github.com/SajadKazemi)
+Copyright (c) 1994-2023, SIL International (http://www.sil.org/),
+with Reserved Font Names "Scheherazade" and "SIL".
