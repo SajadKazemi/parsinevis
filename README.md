@@ -1,5 +1,5 @@
 # parsinevis
-v 1.2 -- September 8, 2023
+v 1.2 -- September 21, 2023
 
 =======================
 
